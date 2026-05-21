@@ -103,7 +103,7 @@ For best reproducibility:
 
 A rendered version of the notebook can be viewed through NBViewer:
 
-(Add NBViewer link here)
+[(NBViewer link here)](https://nbviewer.org/github/csimaoferreira/offshore-wind-limit-reproducibility-audit/blob/main/Generation_figures_1_2_3_5_and_6.ipynb)
 
 ---
 
