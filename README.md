@@ -2,9 +2,19 @@
 
 This repository contains the executable notebooks, figures, and supporting material accompanying the rebuttal paper:
 
-> *Rebuttal to “Comment on ‘A theoretical upper limit for offshore wind energy extraction’ by Simão Ferreira et al. (2026)”: reproducibility analysis, audit of the vdLW implementation, and clarification of finite wind-farm correction methodologies* :contentReference[oaicite:0]{index=0}
+> *Rebuttal to “Comment on ‘A theoretical upper limit for offshore wind energy extraction’ by Simão Ferreira et al. (2026)”: reproducibility analysis, audit of the vdLW implementation, and clarification of finite wind-farm correction methodologies* 
+
+by 
+
+Jens Nørkær Sørensen, Gunner Chr. Larsen, and Carlos Simão Ferreira
+
+first released on 2026 May 16th 
+
+at https://wes.copernicus.org/preprints/wes-2026-59/  CC1: 'Comment on wes-2026-59', Jens Nørkær Sørensen, 16 May 2026
 
 The purpose of this repository is to provide a transparent and executable reproducibility framework for the analyses presented in the rebuttal paper. The notebooks reproduce the principal figures and comparisons discussed in the manuscript and document the progressive correction of implementation inconsistencies identified during the audit of the vdLW methodology.
+
+The pdf of the rebuttal document is also in the repository.
 
 ---
 
